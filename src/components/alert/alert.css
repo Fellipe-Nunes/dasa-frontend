@@ -1,0 +1,42 @@
+.boxAlert {
+    margin-top: 20px;
+    z-index: 1;
+    position: fixed;
+    width: 320px;
+}
+
+.alert {
+    padding: 3px 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: 1px solid transparent;
+}
+
+.alert span{
+    flex: 1;
+}
+
+.alert-error {
+    border-color: #000000;
+
+}
+
+.alert-success {
+    color: #3c763d;
+    background-color: #d4edda;
+    border-color:#3c763d;
+    
+}
+
+.alert-error {
+    color: #721D24;
+    background-color: #F8D7DA;
+    border-color: #721D24;
+}
+
+.alert-info {
+    color: #228AE6;
+    background-color: #ffffff;
+    border-color: #228AE6;
+}

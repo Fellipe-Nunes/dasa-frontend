@@ -1,0 +1,38 @@
+.boxConfirmation {
+    margin-top: 50px;
+    border: 1px solid #32afdf;
+    padding: 30px;
+}
+
+.confirmation {
+    font-weight: bold;
+}
+
+.actions {
+    width: 100%;
+    text-align: center;
+}
+
+.msg {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+  
+.btnConfirm {
+    cursor: pointer;
+    width: 70px;
+    border: none;
+    padding: 5px;
+    font-size: 1em;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: #32afdf ;
+    font-weight: bold;
+    color: #FFF;
+
+}
+
+.btnConfirm:hover {
+    background-color: #fb6760;
+}

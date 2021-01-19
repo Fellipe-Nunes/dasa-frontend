@@ -1,0 +1,17 @@
+/* FOOTER*/
+
+footer {
+    background-color: #f2f2f2;
+    margin-top: 20px;
+    display: flex;
+    vertical-align: middle;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+footer .poweredby {
+    justify-content: start;
+    flex: 1;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}

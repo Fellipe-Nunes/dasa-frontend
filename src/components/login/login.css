@@ -1,0 +1,20 @@
+/*LOGIN*/
+
+.section-login {
+    width: 100%;
+    min-height: 680px;
+   
+}
+
+.form-login {
+    width: 320px;
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+    
+      
+}
+

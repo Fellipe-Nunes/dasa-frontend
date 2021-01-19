@@ -1,0 +1,41 @@
+/* RESET */
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Nunito';
+}
+
+html, body {
+    height: 100%;
+    margin: 0
+}
+
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+/* BODY */
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* MAIN */
+
+main {
+    
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.title {
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 1.8em;
+    color: #fb6760;
+}
